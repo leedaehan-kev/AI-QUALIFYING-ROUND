@@ -16,3 +16,7 @@ https://somjang.tistory.com/entry/DACON-%EC%8B%AC%EB%A6%AC-%EC%84%B1%ED%96%A5-%E
 https://github.com/ineed-coffee/vote_prediction_from_Machiavellism_test
 
 -> 대회 참여한 사람이 작성한 깃허브. 역시 앙상블 사용함. 0.77찍음.
+
+
+
+* 돌고 돌아 앙상블
