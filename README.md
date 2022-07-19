@@ -19,4 +19,4 @@ https://github.com/ineed-coffee/vote_prediction_from_Machiavellism_test
 
 
 
-* 결론: 돌고돌아 앙상블 
+결론: 돌고돌아 앙상블 
