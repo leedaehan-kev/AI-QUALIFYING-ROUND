@@ -1,7 +1,6 @@
 # AI-QUALIFYING-ROUND
 
 
-
 백근우, 강덕영, 이대한
 
 # 참고 사이트
@@ -20,3 +19,8 @@ https://github.com/ineed-coffee/vote_prediction_from_Machiavellism_test
 
 
 결론: 돌고돌아 앙상블 
+
+
+# 테스트
+
+https://openpsychometrics.org/tests/MACH-IV/
