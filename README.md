@@ -2,6 +2,7 @@
 
 
 백근우, 강덕영, 이대한
+
 [SW중심대학 공동 AI 경진대회](https://dacon.io/competitions/official/235902/overview/description)
 # 참고 사이트
 https://continuous-development.tistory.com/247
