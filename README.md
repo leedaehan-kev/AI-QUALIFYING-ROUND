@@ -5,7 +5,7 @@
 
 [SW중심대학 공동 AI 경진대회](https://dacon.io/competitions/official/235902/overview/description)
 
-규칙확인
+[팀구성 FAQ 규칙확인](https://dacon.io/competitions/official/235902/team)
 
 # 참고 사이트
 https://continuous-development.tistory.com/247
