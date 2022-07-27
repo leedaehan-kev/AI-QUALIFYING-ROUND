@@ -17,7 +17,9 @@ https://github.com/ineed-coffee/vote_prediction_from_Machiavellism_test
 
 -> 대회 참여한 사람이 작성한 깃허브. 역시 앙상블 사용함. 0.77찍음.
 
+https://www.youtube.com/channel/UCPq01cgCcEwhXl7BvcwIQyg
 
+-> 고려대학교 머신러닝 모델을 논문 참고해서 설명해주는데 좋음.
 
 결론: 돌고돌아 앙상블 
 
