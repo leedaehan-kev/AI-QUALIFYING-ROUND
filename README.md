@@ -28,6 +28,8 @@ https://www.youtube.com/channel/UCueLU1pCvFlM8Y8sth7a6RQ
 
 -> 여기도 설명 좋음.
 
+https://www.youtube.com/channel/UCueLU1pCvFlM8Y8sth7a6RQ
+
 결론: 돌고돌아 앙상블 
 
 
