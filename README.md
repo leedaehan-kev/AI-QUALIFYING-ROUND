@@ -21,7 +21,7 @@ https://www.youtube.com/channel/UCPq01cgCcEwhXl7BvcwIQyg
 
 -> 고려대학교 머신러닝 모델을 논문 참고해서 설명해주는데 좋음.
 
-https://www.youtube.com/watch?v=GciPwN2cde4
+https://www.youtube.com/channel/UCueLU1pCvFlM8Y8sth7a6RQ
 
 -> 여기도 설명 좋음.
 
