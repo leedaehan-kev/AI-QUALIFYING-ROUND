@@ -44,7 +44,6 @@ https://openpsychometrics.org/tests/MACH-IV/
 
 # 가중치 계산법
 
-마키아벨리즘 테스트 Score 계산법
+[마키아벨리즘 테스트 Score 계산법](https://www.dacon.io/competitions/open/235647/talkboard/401557)
 
-TIPI(Ten-Item Personality Inventory) 계산법
-
+[TIPI(Ten-Item Personality Inventory) 계산법](https://dacon.io/competitions/official/235647/talkboard/401589?page=1&dtype=recent&ptype=pub&fType)
