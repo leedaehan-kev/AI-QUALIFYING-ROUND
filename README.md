@@ -42,7 +42,7 @@ https://www.youtube.com/watch?v=5PX1ivMiLMA
 
 https://openpsychometrics.org/tests/MACH-IV/
 
-# 가중치
+# 가중치 계산법
 
 마키아벨리즘 테스트 Score 계산법
 
