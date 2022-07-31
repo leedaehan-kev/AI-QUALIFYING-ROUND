@@ -41,3 +41,10 @@ https://www.youtube.com/watch?v=5PX1ivMiLMA
 # 테스트
 
 https://openpsychometrics.org/tests/MACH-IV/
+
+# 가중치
+
+마키아벨리즘 테스트 Score 계산법
+
+TIPI(Ten-Item Personality Inventory) 계산법
+
