@@ -34,6 +34,8 @@ https://www.youtube.com/channel/UCueLU1pCvFlM8Y8sth7a6RQ
 
 https://www.youtube.com/watch?v=5PX1ivMiLMA
 
+사이킷런 공식문서
+
 
 결론: 돌고돌아 앙상블 
 
