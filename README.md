@@ -27,14 +27,18 @@ https://somjang.tistory.com/entry/DACON-%EC%8B%AC%EB%A6%AC-%EC%84%B1%ED%96%A5-%E
 결론: 돌고돌아 앙상블 
 
 
-# 테스트
-
-https://openpsychometrics.org/tests/MACH-IV/
+# MACH-IV 테스트
+> [openpsychometrics.org]https://openpsychometrics.org/tests/MACH-IV/
 
 # 가중치 계산법
++ 데이터 변수 설명
+  + [DACON 데이터 변수 공지](https://dacon.io/competitions/official/235902/talkboard/406661?page=1&dtype=recent)
 
-[마키아벨리즘 테스트 Score 계산법](https://www.dacon.io/competitions/open/235647/talkboard/401557)
++ 마키아벨리즘 테스트(MACH-IV) Score 계산 
+  + [DACON 토론글](https://www.dacon.io/competitions/open/235647/talkboard/401557)
+  + [마키아벨리즘 테스트 설계 및 Scaling 논문](https://books.google.co.kr/books?hl=ko&lr=&id=d5tGBQAAQBAJ&oi=fnd&pg=PP1&dq=christie,+r.+%26+geis,+f.+(1970)+%22studies+in+machiavellianism%22.+ny:+academic+press&ots=rjnGCFNEz4&sig=-NC4NnXwKULOLO9J6zW_KqghfEI#v=onepage&q&f=false)
 
-[TIPI(Ten-Item Personality Inventory) 계산법](https://dacon.io/competitions/official/235647/talkboard/401589?page=1&dtype=recent&ptype=pub&fType)
++ TIPI 계산법
+  + [DACON 토론글](https://dacon.io/competitions/official/235647/talkboard/401589?page=1&dtype=recent&ptype=pub&fType)
 
-마키아벨리즘 보다는 TIPI에 더 집중해서 분석해야할듯.
+
