@@ -28,7 +28,7 @@ https://somjang.tistory.com/entry/DACON-%EC%8B%AC%EB%A6%AC-%EC%84%B1%ED%96%A5-%E
 
 
 # MACH-IV 테스트
-> [openpsychometrics.org]https://openpsychometrics.org/tests/MACH-IV/
+> [openpsychometrics.org](https://openpsychometrics.org/tests/MACH-IV/)
 
 # 가중치 계산법
 + 데이터 변수 설명
