@@ -40,14 +40,3 @@ https://somjang.tistory.com/entry/DACON-%EC%8B%AC%EB%A6%AC-%EC%84%B1%ED%96%A5-%E
 
 + TIPI 계산법
   + [DACON 토론글](https://dacon.io/competitions/official/235647/talkboard/401589?page=1&dtype=recent&ptype=pub&fType)
-
-# 결과
-0810 : 3회 제출 기본값
-
-0811 : 3회 제출 기본값
-
-0812 : 3회 제출 기본값
-
-0813 : 3회 제출 기본값
-
-0814 : 3회 제출 기본값
